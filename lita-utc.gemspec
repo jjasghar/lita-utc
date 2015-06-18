@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = "lita-utc"
-  spec.version       = "0.1.0"
+  spec.version       = "0.1.1"
   spec.authors       = ["JJ Asghar"]
   spec.email         = ["jjasghar@gmail.com"]
   spec.description   = "Sometimes you just want to know the UTC timezone"
