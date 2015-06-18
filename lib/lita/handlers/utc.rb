@@ -6,7 +6,7 @@ module Lita
 
       def utc(request)
 
-        time = Time.now.utc
+        time = ::Time.now.utc
         request.reply("The UTC time and date is now: #{time}")
 
       end
